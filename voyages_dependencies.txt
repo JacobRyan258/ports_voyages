@@ -1,0 +1,24 @@
+Dependencies - 
+
+voyages
+
+import pandas as pd
+import geopandas as gpd
+import numpy as np
+import matplotlib.pyplot as plt
+from datetime import datetime, timedelta
+import shapely as shp
+from shapely.geometry import polygon, LineString, Point
+import seaborn as sns
+import csv
+%matplotlib inline
+
+
+predict
+
+
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+import csv
